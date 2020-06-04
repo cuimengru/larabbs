@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3bf0ee6-baf5-44aa-ba79-c71ffe4ed87f" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/larabbs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/larabbs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591162905514</updated>
       <workItem from="1591162907031" duration="16905000" />
-      <workItem from="1591230517352" duration="2639000" />
+      <workItem from="1591230517352" duration="5189000" />
     </task>
     <servers />
   </component>
@@ -210,14 +210,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="485" y="674" width="943" height="348" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591176442791" />
-    <state x="809" y="834" key="NewPhpFileDialog" timestamp="1591235594917">
+    <state x="809" y="834" key="NewPhpFileDialog" timestamp="1591237853814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="809" y="834" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591235594917" />
-    <state x="614" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1591167914597">
+    <state x="809" y="834" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591237853814" />
+    <state x="614" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1591237257607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591167914597" />
+    <state x="614" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591237257607" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
