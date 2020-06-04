@@ -20,15 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3bf0ee6-baf5-44aa-ba79-c71ffe4ed87f" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/larabbs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/larabbs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -181,7 +182,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591162905514</updated>
-      <workItem from="1591162907031" duration="16603000" />
+      <workItem from="1591162907031" duration="16905000" />
+      <workItem from="1591230517352" duration="2639000" />
     </task>
     <servers />
   </component>
@@ -201,16 +203,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="674" width="943" height="348" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1591176442791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="485" y="674" width="943" height="348" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591176442791" />
-    <state x="809" y="834" key="NewPhpFileDialog" timestamp="1591167987787">
+    <state x="809" y="834" key="NewPhpFileDialog" timestamp="1591235594917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="809" y="834" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591167987787" />
+    <state x="809" y="834" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591235594917" />
     <state x="614" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1591167914597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
