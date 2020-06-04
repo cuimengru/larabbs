@@ -38,4 +38,10 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    //关联话题，一个用户有多个话题
+    public function topics()
+    {
+        return $this->hasMany(Topic::class);
+    }
 }
