@@ -50,12 +50,11 @@
                     <button type="submit" class="btn btn-primary"><i class="far fa-save mr-2" aria-hidden="true"></i> 保存</button>
                   </div>
                 </form>
+           {{-- </form>--}}
         </div>
       </div>
     </div>
   </div>
-
-
 
 @endsection
 @section('styles')
