@@ -35,6 +35,12 @@
   @include('layouts._footer')
 </div>
 
+
+{{--模板中的 Scripts 区块--}}
+@if (app()->isLocal())
+  @include('sudosu::user-selector')
+@endif
+
 <!-- Scripts -->
 <script src="{{ mix('js/app.js') }}"></script>
 

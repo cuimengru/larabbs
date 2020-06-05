@@ -18,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/laravel-permission" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/summerblue/generator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/summerblue/laravel-active" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/viacreative/sudo-su" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
