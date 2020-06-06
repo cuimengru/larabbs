@@ -12,8 +12,26 @@ class UserResource extends JsonResource
      * @param  \Illuminate\Http\Request  $request
      * @return array
      */
+    protected $showSensitiveFields = false;
+
     public function toArray($request)
     {
-        return parent::toArray($request);
+        if (!$this->showSensitiveFields) {
+            $this->resource->addHidden(['phone', 'email']);
+        }
+
+        $data = parent::toArray($request);
+
+        $data['bound_phone'] = $this->resource->phone ? true : false;
+        $data['bound_wechat'] = ($this->resource->weixin_unionid || $this->resource->weixin_openid) ? true : false;
+
+        return $data;
+    }
+
+    public function showSensitiveFields()
+    {
+        $this->showSensitiveFields = true;
+
+        return $this;
     }
 }
