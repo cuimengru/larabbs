@@ -20,6 +20,7 @@ use Illuminate\Http\Request;
 //测试路由
 Route::prefix('v1')
     ->namespace('Api')
+    ->middleware('change-locale')
     ->name('api.v1.')
     ->group(function () {
 

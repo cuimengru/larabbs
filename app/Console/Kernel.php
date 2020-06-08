@@ -16,6 +16,10 @@ class Kernel extends ConsoleKernel
         //
     ];
 
+    protected $routeMiddleware = [
+        // 接口语言设置
+        'change-locale' => \App\Http\Middleware\ChangeLocale::class,
+    ];
     /**
      * Define the application's command schedule.
      *
