@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a3bf0ee6-baf5-44aa-ba79-c71ffe4ed87f" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/NotificationsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/NotificationsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Observers/ReplyObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Observers/ReplyObserver.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +222,7 @@
       <workItem from="1591230517352" duration="13347000" />
       <workItem from="1591316842321" duration="31683000" />
       <workItem from="1591403151873" duration="22417000" />
-      <workItem from="1591576143261" duration="12169000" />
+      <workItem from="1591576143261" duration="12583000" />
     </task>
     <servers />
   </component>
